@@ -1,3 +1,6 @@
 # Hello everynyan. THERE IS MY LANG DRAFT. 
 
 ## THIS LANG IS CONLANG AND NAMES KOTLANG
+
+### AND THERE IS LANG'S LOGO
+![](assets/logo.png)

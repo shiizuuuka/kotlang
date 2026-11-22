@@ -1,5 +1,5 @@
 ---
 subject_marker: fi
-object_marker: iw
+object_marker: iwa
 plural_aspect_marker: yori
 ---
